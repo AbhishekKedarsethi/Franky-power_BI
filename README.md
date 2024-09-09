@@ -65,6 +65,11 @@ By this we have completed the first part of the project.(ie Cleaning and Shaping
 
 - Step 6 : We have updated the format such as currency, Postal code, country, city, address so that it will be easy to make report and will have some new ways to look into our data such as maps and dates. By this we have completed "Creating the Data model"
 
+Data Model :
+
+<img width="704" alt="model view" src="https://github.com/user-attachments/assets/ce09a655-7a06-4010-852a-9e1d60eae80f">
+
+
 #### Adding DAX Measures
 
 -Step 1 : in the data view we have created the calculated columens such as Weekend, End of month, Current age, Priority, Short_Country, House number, Price_Tire, Year_Since_Remodel by using DAX like if, left, switch, sum, count, etc.
