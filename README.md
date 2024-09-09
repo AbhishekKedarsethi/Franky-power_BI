@@ -210,4 +210,7 @@ By using this dashboard we can obtain many insights and answers complicated ques
 
 4) Most of the transactions are from USA with 1,80,823 and next is mexico with 72,860 and canada with 16,091 transactions.
 
+This is the visual representation of the Franky dashboard :
+
+[Franky.pdf](https://github.com/user-attachments/files/16929544/Franky.pdf)
 
