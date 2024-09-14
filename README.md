@@ -214,3 +214,12 @@ This is the visual representation of the Franky dashboard :
 
 [Franky.pdf](https://github.com/user-attachments/files/16929544/Franky.pdf)
 
+Contributions are welcome! Please follow these guidelines:
+
+- Fork the repository
+- Create a new branch (git checkout -b feature-branch)
+- Commit your changes (git commit -m 'Add new feature')
+- Push to the branch (git push origin feature-branch)
+- Open a pull request
+
+For any questions or suggestions, feel free to contact me at abishek15012002@gmail.com.
